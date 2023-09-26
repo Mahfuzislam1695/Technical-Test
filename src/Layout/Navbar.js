@@ -3,6 +3,7 @@ import { BsGrid, BsListUl } from "react-icons/bs";
 
 const Navbar = () => {
   const [selectedDiv, setSelectedDiv] = useState(1);
+  // const [selectedDiv, setSelectedDiv] = useState(1);
 
   return (
     <div>
